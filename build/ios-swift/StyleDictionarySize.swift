@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:09:19 GMT
+// Generated on Wed, 10 Mar 2021 13:13:26 GMT
 //
 
 import UIKit
@@ -133,6 +133,21 @@ public enum StyleDictionarySize {
     public static let heading4LineHeight = 24
     public static let heading4ParagraphIndent = 0
     public static let heading4ParagraphSpacing = 0
+    public static let fastDuration = 0.15
+    public static let fastEasingFunctionX1 = 0
+    public static let fastEasingFunctionX2 = 0.5
+    public static let fastEasingFunctionY1 = 0
+    public static let fastEasingFunctionY2 = 1
+    public static let mediumDuration = 0.3
+    public static let mediumEasingFunctionX1 = 0
+    public static let mediumEasingFunctionX2 = 0.30000001192092896
+    public static let mediumEasingFunctionY1 = 0
+    public static let mediumEasingFunctionY2 = 1
+    public static let slowDuration = 0.5
+    public static let slowEasingFunctionX1 = 0
+    public static let slowEasingFunctionX2 = 0
+    public static let slowEasingFunctionY1 = 0
+    public static let slowEasingFunctionY2 = 1
     public static let largeRadiiBottomLeft = 12
     public static let largeRadiiBottomRight = 12
     public static let largeRadiiTopLeft = 12

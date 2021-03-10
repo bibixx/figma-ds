@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:09:19 GMT
+// Generated on Wed, 10 Mar 2021 13:13:26 GMT
 //
 
 
@@ -234,6 +234,27 @@ public class StyleDictionary {
     public static let headingHeading4ParagraphSpacing = 0
     public static let headingHeading4TextCase = none
     public static let headingHeading4TextDecoration = none
+    public static let motionFastDuration = 0.15
+    public static let motionFastEasing = cubic-bezier
+    public static let motionFastEasingFunctionX1 = 0
+    public static let motionFastEasingFunctionX2 = 0.5
+    public static let motionFastEasingFunctionY1 = 0
+    public static let motionFastEasingFunctionY2 = 1
+    public static let motionFastType = dissolve
+    public static let motionMediumDuration = 0.3
+    public static let motionMediumEasing = cubic-bezier
+    public static let motionMediumEasingFunctionX1 = 0
+    public static let motionMediumEasingFunctionX2 = 0.30000001192092896
+    public static let motionMediumEasingFunctionY1 = 0
+    public static let motionMediumEasingFunctionY2 = 1
+    public static let motionMediumType = dissolve
+    public static let motionSlowDuration = 0.5
+    public static let motionSlowEasing = cubic-bezier
+    public static let motionSlowEasingFunctionX1 = 0
+    public static let motionSlowEasingFunctionX2 = 0
+    public static let motionSlowEasingFunctionY1 = 0
+    public static let motionSlowEasingFunctionY2 = 1
+    public static let motionSlowType = dissolve
     public static let neutral100 = rgba(244, 246, 249, 1)
     public static let neutral200 = rgba(230, 232, 240, 1)
     public static let neutral300 = rgba(199, 203, 216, 1)

@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:09:19 GMT
+// Generated on Wed, 10 Mar 2021 13:13:26 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -41,6 +41,21 @@ float const RadiiRoundedRadiiTopRight = 999;
 float const RadiiRoundedRadiiBottomRight = 999;
 float const RadiiRoundedRadiiBottomLeft = 999;
 float const RadiiRoundedSmoothing = 0;
+float const MotionFastDuration = 0.15;
+float const MotionFastEasingFunctionX1 = 0;
+float const MotionFastEasingFunctionX2 = 0.5;
+float const MotionFastEasingFunctionY1 = 0;
+float const MotionFastEasingFunctionY2 = 1;
+float const MotionMediumDuration = 0.3;
+float const MotionMediumEasingFunctionX1 = 0;
+float const MotionMediumEasingFunctionX2 = 0.30000001192092896;
+float const MotionMediumEasingFunctionY1 = 0;
+float const MotionMediumEasingFunctionY2 = 1;
+float const MotionSlowDuration = 0.5;
+float const MotionSlowEasingFunctionX1 = 0;
+float const MotionSlowEasingFunctionX2 = 0;
+float const MotionSlowEasingFunctionY1 = 0;
+float const MotionSlowEasingFunctionY2 = 1;
 float const TitleFontSize = 64;
 float const TitleFontWeight = 700;
 float const TitleLetterSpacing = 0;
