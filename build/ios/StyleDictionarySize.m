@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:13:26 GMT
+// Generated on Wed, 10 Mar 2021 13:15:13 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -29,6 +29,12 @@ float const RadiiSmallRadiiTopRight = 4;
 float const RadiiSmallRadiiBottomRight = 4;
 float const RadiiSmallRadiiBottomLeft = 4;
 float const RadiiSmallSmoothing = 0;
+float const RadiiMediumRadius = 6;
+float const RadiiMediumRadiiTopLeft = 6;
+float const RadiiMediumRadiiTopRight = 6;
+float const RadiiMediumRadiiBottomRight = 6;
+float const RadiiMediumRadiiBottomLeft = 6;
+float const RadiiMediumSmoothing = 0;
 float const RadiiLargeRadius = 12;
 float const RadiiLargeRadiiTopLeft = 12;
 float const RadiiLargeRadiiTopRight = 12;

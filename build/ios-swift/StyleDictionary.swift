@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:13:26 GMT
+// Generated on Wed, 10 Mar 2021 13:15:13 GMT
 //
 
 
@@ -277,6 +277,13 @@ public class StyleDictionary {
     public static let radiiLargeRadius = 12
     public static let radiiLargeRadiusType = single
     public static let radiiLargeSmoothing = 0
+    public static let radiiMediumRadiiBottomLeft = 6
+    public static let radiiMediumRadiiBottomRight = 6
+    public static let radiiMediumRadiiTopLeft = 6
+    public static let radiiMediumRadiiTopRight = 6
+    public static let radiiMediumRadius = 6
+    public static let radiiMediumRadiusType = single
+    public static let radiiMediumSmoothing = 0
     public static let radiiRoundedRadiiBottomLeft = 999
     public static let radiiRoundedRadiiBottomRight = 999
     public static let radiiRoundedRadiiTopLeft = 999

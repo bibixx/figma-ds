@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 13:13:26 GMT
+// Generated on Wed, 10 Mar 2021 13:15:14 GMT
 //
 
 import UIKit
@@ -154,6 +154,12 @@ public enum StyleDictionarySize {
     public static let largeRadiiTopRight = 12
     public static let largeRadius = 12
     public static let largeSmoothing = 0
+    public static let mediumRadiiBottomLeft = 6
+    public static let mediumRadiiBottomRight = 6
+    public static let mediumRadiiTopLeft = 6
+    public static let mediumRadiiTopRight = 6
+    public static let mediumRadius = 6
+    public static let mediumSmoothing = 0
     public static let roundedRadiiBottomLeft = 999
     public static let roundedRadiiBottomRight = 999
     public static let roundedRadiiTopLeft = 999
