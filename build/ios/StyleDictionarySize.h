@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 12:53:34 GMT
+// Generated on Wed, 10 Mar 2021 13:09:19 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -22,6 +22,24 @@ extern float const Sizes64;
 extern float const Sizes80;
 extern float const Sizes96;
 extern float const Sizes112;
+extern float const RadiiSmallRadius;
+extern float const RadiiSmallRadiiTopLeft;
+extern float const RadiiSmallRadiiTopRight;
+extern float const RadiiSmallRadiiBottomRight;
+extern float const RadiiSmallRadiiBottomLeft;
+extern float const RadiiSmallSmoothing;
+extern float const RadiiLargeRadius;
+extern float const RadiiLargeRadiiTopLeft;
+extern float const RadiiLargeRadiiTopRight;
+extern float const RadiiLargeRadiiBottomRight;
+extern float const RadiiLargeRadiiBottomLeft;
+extern float const RadiiLargeSmoothing;
+extern float const RadiiRoundedRadius;
+extern float const RadiiRoundedRadiiTopLeft;
+extern float const RadiiRoundedRadiiTopRight;
+extern float const RadiiRoundedRadiiBottomRight;
+extern float const RadiiRoundedRadiiBottomLeft;
+extern float const RadiiRoundedSmoothing;
 extern float const TitleFontSize;
 extern float const TitleFontWeight;
 extern float const TitleLetterSpacing;

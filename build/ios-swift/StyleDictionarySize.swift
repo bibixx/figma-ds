@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Mar 2021 12:53:34 GMT
+// Generated on Wed, 10 Mar 2021 13:09:19 GMT
 //
 
 import UIKit
@@ -133,6 +133,24 @@ public enum StyleDictionarySize {
     public static let heading4LineHeight = 24
     public static let heading4ParagraphIndent = 0
     public static let heading4ParagraphSpacing = 0
+    public static let largeRadiiBottomLeft = 12
+    public static let largeRadiiBottomRight = 12
+    public static let largeRadiiTopLeft = 12
+    public static let largeRadiiTopRight = 12
+    public static let largeRadius = 12
+    public static let largeSmoothing = 0
+    public static let roundedRadiiBottomLeft = 999
+    public static let roundedRadiiBottomRight = 999
+    public static let roundedRadiiTopLeft = 999
+    public static let roundedRadiiTopRight = 999
+    public static let roundedRadius = 999
+    public static let roundedSmoothing = 0
+    public static let smallRadiiBottomLeft = 4
+    public static let smallRadiiBottomRight = 4
+    public static let smallRadiiTopLeft = 4
+    public static let smallRadiiTopRight = 4
+    public static let smallRadius = 4
+    public static let smallSmoothing = 0
     public static let 112 = 112
     public static let 12 = 12
     public static let 16 = 16
